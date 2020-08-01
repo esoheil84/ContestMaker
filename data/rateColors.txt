@@ -8,7 +8,7 @@
 	"startValue": 100,
 	"endValue": 200,
 	"name": "کم&zwnj;تلاش",
-	"color": "rgb(36,186,9)",
+	"color": "rgb(100,186,9)",
 	"labelColor": "rgb(30,145,7)"
 }, {
 	"startValue": 200,
